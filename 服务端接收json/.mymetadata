@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Web3"
+  id="myeclipse.1466173509469"
+  context-root="/Web3"
+  j2ee-spec="5.0"
+  archive="Web3.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
